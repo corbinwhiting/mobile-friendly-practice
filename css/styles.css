@@ -40,3 +40,18 @@ footer p{
     position: relative;
     top: 50%;
 }
+@media (max-width: 1024px){
+    header{
+        background-color: red;
+    }
+}
+@media (max-width: 768px){
+    header{
+        background-color: orange;
+    }
+}
+@media (max-width: 480px){
+    header{
+        background-color: yellow;
+    }
+}
